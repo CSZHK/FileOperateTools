@@ -1,0 +1,5 @@
+/Users/baidu/Desktop/project/Android/7.0.1Release/components/addressList/res/values
+/Users/baidu/Desktop/project/Android/7.0.1Release/components/tbadkCore/res/values
+/Users/baidu/Desktop/project/Android/7.0.1Release/components/pb/res/values
+/Users/baidu/Desktop/project/Android/7.0.1Release/components/frs/res/values
+outPath="/Users/baidu/Desktop/MutiString.txt" 
